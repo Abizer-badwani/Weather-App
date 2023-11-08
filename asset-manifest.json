@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.d151113e.css",
+    "main.js": "/Weather-App/static/js/main.79239bc3.js",
+    "static/media/humidity.png": "/Weather-App/static/media/humidity.9cf9c7477316f22519b1.png",
+    "static/media/cloudy-day.png": "/Weather-App/static/media/cloudy-day.1b061e811923cda3da2f.png",
+    "static/media/pressure-gauge.png": "/Weather-App/static/media/pressure-gauge.0c38efa00b88319a38d9.png",
+    "static/media/wind.png": "/Weather-App/static/media/wind.2c0dd4e943186a115f3a.png",
+    "index.html": "/Weather-App/index.html",
+    "main.d151113e.css.map": "/Weather-App/static/css/main.d151113e.css.map",
+    "main.79239bc3.js.map": "/Weather-App/static/js/main.79239bc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d151113e.css",
+    "static/js/main.79239bc3.js"
+  ]
+}
